@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(27, 26, 26);
+}
+
+p{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.header{
+    background-color: rgb(129, 27, 1);
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    box-shadow: 4px 6px 8px rgb(197, 4, 4);
+    font-family: SFUIDisplay-Bold, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.icon{
+    margin-left: 0px;
+    text-align: center;
+}
+
+.image1{
+    float: left;
+    margin-right: 120px;
+}
+
+#h3{
+    font-size: 30px;
+    color: white;
+    text-shadow: 3px 4px 6px red ;
+    background-color: rgb(126, 4, 4);
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.footer1{
+    color: white;
+    text-align: center;
+    justify-content: center;
+    font-size: large;
+}
+
+h1{
+    text-shadow: 5px 6px 8px rgb(0, 0, 0);
+}
+
+h4{
+    text-shadow: 5px 6px 8px rgb(0, 0, 0);
+    margin-left: 40px;
+}
+
+.button{
+    border: 6px solid rgb(248, 248, 248);
+    border-radius: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
